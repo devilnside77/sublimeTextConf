@@ -1,0 +1,1264 @@
+{
+	"folder_history":
+	[
+		"/D/x121719/Source/next_ecrans",
+		"/D/x121719/Source/personne-morale",
+		"/D/x121719/Source/entree-en-relation-personne-morale"
+	],
+	"last_version": 3143,
+	"last_window_id": 14,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 420.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "html",
+				"selected_items":
+				[
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"pretty",
+						"HTMLPrettify"
+					],
+					[
+						"text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"jso",
+						"Set Syntax: JSON"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"j",
+						"Set Syntax: JSON"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"comme",
+						"Toggle Comment"
+					],
+					[
+						"yml",
+						"Set Syntax: YAML"
+					],
+					[
+						"y",
+						"Set Syntax: YAML"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"encode",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"javsc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"JSON",
+						"Set Syntax: JSON"
+					]
+				],
+				"width": 474.0
+			},
+			"console":
+			{
+				"height": 148.0,
+				"history":
+				[
+					"sublime.verison()",
+					"sublime.show"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/src/index.js",
+				"/C/Users/x121719/Desktop/memo2.java",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/stats.json",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/target/generated-webapp/index.html",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/npm-shrinkwrap.json",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/target/sdn_cdn_entree_en_relation_personne_morale_frontend-1.20.0-SNAPSHOT/main.61d573130984fbfe89ad.js",
+				"/C/HOMEWARE/Apache/Maven/3.3.3/conf/settings.xml",
+				"/C/Users/x121719/Downloads/BCC+-+Soci%E9t%E9+en+Formation_1.0.2 (1).wsdl",
+				"/C/Users/x121719/Downloads/BCC+-+Soci%E9t%E9+en+Formation_1.0.2.wsdl",
+				"/C/Users/x121719/Downloads/RIC+-+Liste+des+adresses+dune+personne+morale_1.0.0.wsdl",
+				"/C/Users/x121719/Downloads/1_workflow (2).feature",
+				"/C/Users/x121719/Downloads/swagger-services-a-distance.yml",
+				"/C/Users/x121719/Downloads/1_workflow (3).feature",
+				"/D/x121719/Source/sdn_cdn_biblio_ui/docs/examples/entree_en_relation/css/introjs.min.css",
+				"/D/x121719/Source/sdn_cdn_biblio_ui/docs/examples/entree_en_relation/js/intro.js",
+				"/D/x121719/Source/sdn_cdn_biblio_ui/docs/examples/entree_en_relation/js/intro.min.js",
+				"/C/Users/x121719/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/TR8OCR2Z/beans.xml",
+				"/C/Users/x121719/Downloads/2_figeageDeDonnees.feature",
+				"/C/Users/x121719/Downloads/1_workflow (1).feature",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/target/sdn_cdn_entree_en_relation_personne_morale_frontend-1.14.0-SNAPSHOT/index.html",
+				"/C/Users/x121719/Desktop/EERPM.xml",
+				"/C/Users/x121719/Desktop/memo",
+				"/C/Users/x121719/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/KQOEFW2Z/swaggerEERPMApositoinnerdansmodule.yml",
+				"/C/Users/x121719/Downloads/1_workflow.feature",
+				"/D/x121719/Source/entree-en-relation-personne-morale/entree-en-relation-personne-morale-application/entree-en-relation-personne-morale-swarm/logs/trace.log",
+				"/C/Users/x121719/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/KQOEFW2Z/dictionary.xml",
+				"/C/Users/x121719/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/KQOEFW2Z/security-data.json",
+				"/C/Users/x121719/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/KQOEFW2Z/rs_imd properties.modele",
+				"/D/x121719/Source/entree-en-relation-personne-morale/entree-en-relation-personne-morale-application/entree-en-relation-personne-morale-swarm/logs/audit.log",
+				"/C/Users/x121719/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/KQOEFW2Z/Personne Morale API postman_collection.json",
+				"/C/Users/x121719/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/KQOEFW2Z/vault properties.modele",
+				"/C/Users/x121719/AppData/Local/Temp/wzad2f/Abandonner/abandonner",
+				"/D/x121719/Source/entree-en-relation-personne-morale/entree-en-relation-personne-morale-api/build/tokensUsed.properties",
+				"/D/x121719/Source/entree-en-relation-personne-morale/entree-en-relation-personne-morale-api/src/conf/mapper/jaxws/ws_ssop_v2.properties.modele",
+				"/D/x121719/Source/entree-en-relation-personne-morale/Jenkinsfile",
+				"/C/Users/x121719/.IntelliJIdea2017.1/config/options/proxy.settings.xml",
+				"/C/Users/x121719/AppData/Local/Temp/7zO4829.tmp/MANIFEST.MF",
+				"/C/Users/x121719/AppData/Local/Temp/7zO5F11.tmp/project-stages.yml",
+				"/C/Users/x121719/AppData/Local/Temp/7zOE0DC.tmp/standalone.xml",
+				"/C/Users/x121719/AppData/Local/Temp/7zO858.tmp/project-stages.yml",
+				"/C/Users/x121719/AppData/Local/Temp/7zOCC8F.tmp/application-swarm.properties",
+				"/D/x121719/Source/entree-en-relation-personne-morale/entree-en-relation-personne-morale-api/build/surefire-reports/TEST-fr.cdn.smd.resource.EntreeEnRelationControllerTest.xml",
+				"/D/x121719/Source/relation-commerciale/relation-commerciale/build/imd.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/log/start.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/log/build.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/nvmcleaninstallA.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/npm-debug.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/unused.json",
+				"/D/x121719/Source/relation-commerciale/mvncleaninstall.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/target/generated-webapp/static/index.html",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/target/generated-webapp/static/app.js",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/pom.xml",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/start.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/mvncleaninstall6.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/target/generated-webapp/static/main.js",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/pom.xml",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/mvncleaninstall5.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/mvncleaninstall4.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/mvncleaninstall3.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/mvncleaninstall2.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/mvncleaninstall.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/mvn-c-i.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/shrink.json",
+				"/D/x121719/Source/entree-en-relation-personne-morale/entree-en-relation-personne-morale-application/README.md"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"sous_etapes",
+					"/sous_etapes",
+					"Route",
+					"sockjs",
+					"vendor",
+					"main",
+					"div",
+					"12",
+					"sous_eta",
+					"\\",
+					"o",
+					"\\",
+					"\\\"",
+					"1.17.0",
+					"Gutter",
+					"every",
+					"don",
+					"This is the first release of the new version and it might have some subtle bugs, especially on Windows and Mac, as I",
+					"version and it might have some subtle bugs, especially on Windows and Mac, as I",
+					"version",
+					"you",
+					"Gutter",
+					"  \n",
+					"Skip",
+					"Back",
+					"Next",
+					"Done",
+					"entree-en-relation-personne-morale-swarm-1.15.0",
+					"bourses",
+					"des cases a cocher",
+					"EPRAPP",
+					"contrat",
+					"matricule",
+					"CompteDeFonctionnement",
+					"reject cheque",
+					"action",
+					"date",
+					"Matricule",
+					"psn",
+					"old",
+					" set",
+					"setVersionEntete",
+					"ConventionAlliance",
+					"enabled",
+					"bordereaux",
+					"ibans",
+					"iban",
+					", ",
+					"<ric:code_banque>",
+					"</ric:code_banque>",
+					"<ric:id_objet_metier>",
+					"</ric:id_objet_metier>",
+					"Npm-s",
+					"bower",
+					"yarn",
+					"npm",
+					"yarn.lock",
+					"shrinkwrap.json",
+					"shrinkwrap",
+					"npm-shrinkwrap.json",
+					"Npm-shrinkwrap.json",
+					"Bower",
+					"Npm",
+					"Yarn",
+					"`",
+					"npm",
+					"yarn",
+					"`Bower`",
+					"NPM",
+					"`yarn`",
+					"[[[[NPM]]]]",
+					"npm-shrinkwrap.json",
+					"NPM",
+					"npm",
+					"`npm`",
+					"`node_modules`",
+					"''yarn''",
+					"node_modules",
+					"npm",
+					"yarn",
+					", ",
+					"coverage",
+					"DOIN createClassement",
+					"DOIN create",
+					"DOIN createClassement :",
+					"type=text",
+					"yarn",
+					"purify",
+					"jquery",
+					"cdn-ui-log",
+					"angular-ui-router",
+					"angular",
+					"chart",
+					"sda-ui-themes",
+					"angular-jwt",
+					"1.5.5",
+					"node",
+					"1.5.5",
+					"\"angular\"",
+					"angular",
+					"8082"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					" ",
+					"",
+					"1.18.0",
+					"Passer",
+					"Précédent",
+					"Suivant",
+					"Fin",
+					"structure-banque-swarm-1.2.0",
+					"des cases a options",
+					",\n",
+					"code_banque :",
+					"",
+					"d_objet_metier :",
+					"",
+					"Bower",
+					"Yarn",
+					"Npm",
+					"npm-shrinkwrap.json",
+					"bower",
+					"npm",
+					"yarn",
+					"Npm",
+					"Yarn",
+					"[[Bower]]",
+					"[[Bower ]]",
+					"npm",
+					"[[yarn]]",
+					"[[NPM]]",
+					"[[npm-shrinkwrap.json]]",
+					"[[NPM]]",
+					"NPM",
+					"[[npm]]",
+					"[[node_modules]]",
+					"'yarn'",
+					"`node_modules`",
+					"`npm`",
+					"`yarn`",
+					",\n",
+					"1.5.8"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 242.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 622.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/x121719/Desktop/memo",
+					"settings":
+					{
+						"buffer_size": 1065,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/P/.gitconfig",
+					"settings":
+					{
+						"buffer_size": 325,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "html",
+				"selected_items":
+				[
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"pretty",
+						"HTMLPrettify"
+					],
+					[
+						"text",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"jso",
+						"Set Syntax: JSON"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"java",
+						"Set Syntax: Java"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"j",
+						"Set Syntax: JSON"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"comme",
+						"Toggle Comment"
+					],
+					[
+						"yml",
+						"Set Syntax: YAML"
+					],
+					[
+						"y",
+						"Set Syntax: YAML"
+					],
+					[
+						"xml",
+						"Set Syntax: XML"
+					],
+					[
+						"bash",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"encode",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"javsc",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"JSON",
+						"Set Syntax: JSON"
+					]
+				],
+				"width": 474.0
+			},
+			"console":
+			{
+				"height": 148.0,
+				"history":
+				[
+					"sublime.verison()",
+					"sublime.show"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/src/index.js",
+				"/C/Users/x121719/Desktop/memo2.java",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/stats.json",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/target/generated-webapp/index.html",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/npm-shrinkwrap.json",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/target/sdn_cdn_entree_en_relation_personne_morale_frontend-1.20.0-SNAPSHOT/main.61d573130984fbfe89ad.js",
+				"/C/HOMEWARE/Apache/Maven/3.3.3/conf/settings.xml",
+				"/C/Users/x121719/Downloads/BCC+-+Soci%E9t%E9+en+Formation_1.0.2 (1).wsdl",
+				"/C/Users/x121719/Downloads/BCC+-+Soci%E9t%E9+en+Formation_1.0.2.wsdl",
+				"/C/Users/x121719/Downloads/RIC+-+Liste+des+adresses+dune+personne+morale_1.0.0.wsdl",
+				"/C/Users/x121719/Downloads/1_workflow (2).feature",
+				"/C/Users/x121719/Downloads/swagger-services-a-distance.yml",
+				"/C/Users/x121719/Downloads/1_workflow (3).feature",
+				"/D/x121719/Source/sdn_cdn_biblio_ui/docs/examples/entree_en_relation/css/introjs.min.css",
+				"/D/x121719/Source/sdn_cdn_biblio_ui/docs/examples/entree_en_relation/js/intro.js",
+				"/D/x121719/Source/sdn_cdn_biblio_ui/docs/examples/entree_en_relation/js/intro.min.js",
+				"/C/Users/x121719/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/TR8OCR2Z/beans.xml",
+				"/C/Users/x121719/Downloads/2_figeageDeDonnees.feature",
+				"/C/Users/x121719/Downloads/1_workflow (1).feature",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/target/sdn_cdn_entree_en_relation_personne_morale_frontend-1.14.0-SNAPSHOT/index.html",
+				"/C/Users/x121719/Desktop/EERPM.xml",
+				"/C/Users/x121719/Desktop/memo",
+				"/C/Users/x121719/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/KQOEFW2Z/swaggerEERPMApositoinnerdansmodule.yml",
+				"/C/Users/x121719/Downloads/1_workflow.feature",
+				"/D/x121719/Source/entree-en-relation-personne-morale/entree-en-relation-personne-morale-application/entree-en-relation-personne-morale-swarm/logs/trace.log",
+				"/C/Users/x121719/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/KQOEFW2Z/dictionary.xml",
+				"/C/Users/x121719/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/KQOEFW2Z/security-data.json",
+				"/C/Users/x121719/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/KQOEFW2Z/rs_imd properties.modele",
+				"/D/x121719/Source/entree-en-relation-personne-morale/entree-en-relation-personne-morale-application/entree-en-relation-personne-morale-swarm/logs/audit.log",
+				"/C/Users/x121719/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/KQOEFW2Z/Personne Morale API postman_collection.json",
+				"/C/Users/x121719/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/KQOEFW2Z/vault properties.modele",
+				"/C/Users/x121719/AppData/Local/Temp/wzad2f/Abandonner/abandonner",
+				"/D/x121719/Source/entree-en-relation-personne-morale/entree-en-relation-personne-morale-api/build/tokensUsed.properties",
+				"/D/x121719/Source/entree-en-relation-personne-morale/entree-en-relation-personne-morale-api/src/conf/mapper/jaxws/ws_ssop_v2.properties.modele",
+				"/D/x121719/Source/entree-en-relation-personne-morale/Jenkinsfile",
+				"/C/Users/x121719/.IntelliJIdea2017.1/config/options/proxy.settings.xml",
+				"/C/Users/x121719/AppData/Local/Temp/7zO4829.tmp/MANIFEST.MF",
+				"/C/Users/x121719/AppData/Local/Temp/7zO5F11.tmp/project-stages.yml",
+				"/C/Users/x121719/AppData/Local/Temp/7zOE0DC.tmp/standalone.xml",
+				"/C/Users/x121719/AppData/Local/Temp/7zO858.tmp/project-stages.yml",
+				"/C/Users/x121719/AppData/Local/Temp/7zOCC8F.tmp/application-swarm.properties",
+				"/D/x121719/Source/entree-en-relation-personne-morale/entree-en-relation-personne-morale-api/build/surefire-reports/TEST-fr.cdn.smd.resource.EntreeEnRelationControllerTest.xml",
+				"/D/x121719/Source/relation-commerciale/relation-commerciale/build/imd.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/log/start.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/log/build.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/nvmcleaninstallA.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/npm-debug.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/unused.json",
+				"/D/x121719/Source/relation-commerciale/mvncleaninstall.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/target/generated-webapp/static/index.html",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/target/generated-webapp/static/app.js",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/pom.xml",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/start.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/mvncleaninstall6.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/target/generated-webapp/static/main.js",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/pom.xml",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/mvncleaninstall5.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/mvncleaninstall4.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/mvncleaninstall3.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/mvncleaninstall2.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/mvncleaninstall.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/mvn-c-i.log",
+				"/D/x121719/Source/sdn_cdn_entree_en_relation_personne_morale/sdn_cdn_entree_en_relation_personne_morale_frontend/shrink.json",
+				"/D/x121719/Source/entree-en-relation-personne-morale/entree-en-relation-personne-morale-application/README.md"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"sous_etapes",
+					"/sous_etapes",
+					"Route",
+					"sockjs",
+					"vendor",
+					"main",
+					"div",
+					"12",
+					"sous_eta",
+					"\\",
+					"o",
+					"\\",
+					"\\\"",
+					"1.17.0",
+					"Gutter",
+					"every",
+					"don",
+					"This is the first release of the new version and it might have some subtle bugs, especially on Windows and Mac, as I",
+					"version and it might have some subtle bugs, especially on Windows and Mac, as I",
+					"version",
+					"you",
+					"Gutter",
+					"  \n",
+					"Skip",
+					"Back",
+					"Next",
+					"Done",
+					"entree-en-relation-personne-morale-swarm-1.15.0",
+					"bourses",
+					"des cases a cocher",
+					"EPRAPP",
+					"contrat",
+					"matricule",
+					"CompteDeFonctionnement",
+					"reject cheque",
+					"action",
+					"date",
+					"Matricule",
+					"psn",
+					"old",
+					" set",
+					"setVersionEntete",
+					"ConventionAlliance",
+					"enabled",
+					"bordereaux",
+					"ibans",
+					"iban",
+					", ",
+					"<ric:code_banque>",
+					"</ric:code_banque>",
+					"<ric:id_objet_metier>",
+					"</ric:id_objet_metier>",
+					"Npm-s",
+					"bower",
+					"yarn",
+					"npm",
+					"yarn.lock",
+					"shrinkwrap.json",
+					"shrinkwrap",
+					"npm-shrinkwrap.json",
+					"Npm-shrinkwrap.json",
+					"Bower",
+					"Npm",
+					"Yarn",
+					"`",
+					"npm",
+					"yarn",
+					"`Bower`",
+					"NPM",
+					"`yarn`",
+					"[[[[NPM]]]]",
+					"npm-shrinkwrap.json",
+					"NPM",
+					"npm",
+					"`npm`",
+					"`node_modules`",
+					"''yarn''",
+					"node_modules",
+					"npm",
+					"yarn",
+					", ",
+					"coverage",
+					"DOIN createClassement",
+					"DOIN create",
+					"DOIN createClassement :",
+					"type=text",
+					"yarn",
+					"purify",
+					"jquery",
+					"cdn-ui-log",
+					"angular-ui-router",
+					"angular",
+					"chart",
+					"sda-ui-themes",
+					"angular-jwt",
+					"1.5.5",
+					"node",
+					"1.5.5",
+					"\"angular\"",
+					"angular",
+					"8082"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					" ",
+					"",
+					"1.18.0",
+					"Passer",
+					"Précédent",
+					"Suivant",
+					"Fin",
+					"structure-banque-swarm-1.2.0",
+					"des cases a options",
+					",\n",
+					"code_banque :",
+					"",
+					"d_objet_metier :",
+					"",
+					"Bower",
+					"Yarn",
+					"Npm",
+					"npm-shrinkwrap.json",
+					"bower",
+					"npm",
+					"yarn",
+					"Npm",
+					"Yarn",
+					"[[Bower]]",
+					"[[Bower ]]",
+					"npm",
+					"[[yarn]]",
+					"[[NPM]]",
+					"[[npm-shrinkwrap.json]]",
+					"[[NPM]]",
+					"NPM",
+					"[[npm]]",
+					"[[node_modules]]",
+					"'yarn'",
+					"`node_modules`",
+					"`npm`",
+					"`yarn`",
+					",\n",
+					"1.5.8"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/x121719/Desktop/memo",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1065,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										50,
+										50
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/P/.gitconfig",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 325,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										139,
+										139
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.clone_locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.clone_regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-32000,-32000,-1,-1,516,494,38,1132",
+			"project": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 242.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				]
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"Dracula Color Scheme",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"Package Control",
+		"SideBarEnhancements",
+		"Terminal",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}
